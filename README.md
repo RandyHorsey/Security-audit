@@ -18,6 +18,12 @@ Stakeholder Memorandum:  <br/>
 <img src="https://imgur.com/tDomyII.png" height="65%" width="65%" alt="Security Audit"/>
 <img src="https://imgur.com/4QvZ4Lz.png" height="65%" width="65%" alt="Security Audit"/>
 <img src="https://imgur.com/cj7b7DR.png" height="65%" width="65%" alt="Security Audit"/>
+<br />
+Controls Assessment: <br/> 
+<img src="https://imgur.com/oXi2ovd.png" height="65%" width="65%" alt="Security Audit"/>
+<img src="https://imgur.com/4joRnlK.png" height="65%" width="65%" alt="Security Audit"/>
+<img src="https://imgur.com/AC9cjUU.png" height="65%" width="65%" alt="Security Audit"/>
+<img src="https://imgur.com/OSz3bSE.png" height="65%" width="65%" alt="Security Audit"/>
 </p>
 
 <!--
