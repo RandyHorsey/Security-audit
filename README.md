@@ -14,9 +14,10 @@ This is an Audit and a Stakeholder Memorandum to a fictional company named Botiu
 <h2>Documents:</h2>
 
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/tDomyII.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Stakeholder Memorandum:  <br/>
+<img src="https://imgur.com/tDomyII.png" height="65%" width="65%" alt="Security Audit"/>
+<img src="https://imgur.com/4QvZ4Lz.png" height="65%" width="65%" alt="Security Audit"/>
+<img src="https://imgur.com/cj7b7DR.png" height="65%" width="65%" alt="Security Audit"/>
 </p>
 
 <!--
