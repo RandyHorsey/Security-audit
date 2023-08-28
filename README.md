@@ -16,7 +16,7 @@ This is an Audit and a Stakeholder Memorandum to a fictional company named Botiu
 <br />
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/tDomyII" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/tDomyII.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
